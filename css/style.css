@@ -14,3 +14,9 @@ header{
   width:100%;
   background-color: pink;
 }
+.taglio-alto{
+  height: 400px;
+  width:100%;
+  background-color: yellow;
+  margin: 20px 0;
+}

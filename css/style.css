@@ -15,8 +15,8 @@ header{
   background-color: pink;
 }
   main{
-  /* background-color: blue;
-  height: auto; */
+  background-color: blue;
+  height: auto;
 }
 .taglio-alto{
   height: 400px;
@@ -36,7 +36,8 @@ header{
   background-color: lightblue;
   margin-bottom: 20px;
 }
- .sinistra{
+  .taglio-medio .sinistra,
+  .taglio-medio .destra{
   height: 350px;
   width:25%;
   background-color: lightblue;
@@ -49,14 +50,9 @@ header{
   float: left;
   margin: 0 2%;
 }
-.destra{
-  height: 350px;
-  width:25%;
-  background-color: lightblue;
-  float: left;
-}
 footer{
   height: 50px;
   width:100%;
   background-color: purple;
+  margin-top: 20px;
 }

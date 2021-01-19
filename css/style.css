@@ -4,5 +4,13 @@
   box-sizing: border-box;
 }
 body{
+}
+.contenitore{
+  width: 80%;
+  margin: auto;
+}
+header{
+  height: 100px;
+  width:100%;
   background-color: pink;
 }
